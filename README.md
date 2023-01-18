@@ -4,4 +4,4 @@ The final project for a probability and statistics university course on weather 
 Team members:
 m-awais-raza
 hammad7622
-Hoshyar khan
+ZawarK7
